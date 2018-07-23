@@ -12,7 +12,8 @@ end
 
 def assign_rooms(attendees)
   rooms = 0
-  attendees.collect do |rooms|
+  attendees.collect do |name|
+    
 
 def printer(attendees)
   batch_badge_creator(attendees)
