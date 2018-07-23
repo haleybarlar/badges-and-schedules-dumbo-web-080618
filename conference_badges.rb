@@ -25,5 +25,6 @@ def printer(attendees)
     puts i
 end
 end
+end
     
     
