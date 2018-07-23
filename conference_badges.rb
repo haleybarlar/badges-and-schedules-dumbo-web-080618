@@ -13,6 +13,7 @@ end
 def assign_rooms(attendees)
   rooms = 0
   attendees.collect do |name|
+    room += 1
     
 
 def printer(attendees)
